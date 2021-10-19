@@ -4,7 +4,7 @@ I am a PhD student at the University of Washington. I build devices for humans, 
 
 My website: [pornthep.com](https://pornthep.com)
 
-Contact me: [mailto:prnthp@uw.ed](prnthp@uw.edu)
+Contact me: prnthp@uw.edu
 
 <!--
 **prnthp/prnthp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
