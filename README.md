@@ -2,7 +2,7 @@
 
 I am a PhD student at the University of Washington. I build devices for humans, devices for haptics, and devices for virtual reality.
 
-My website: [pornthep.com](https://pornthep.com)
+My website: [pornthep.com](https://pornthep.com) or [พรเทพ.com](https://พรเทพ.com)
 
 Contact me: prnthp@uw.edu
 
