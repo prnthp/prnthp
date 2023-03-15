@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a ReSeArCH ScIeNTiSt at Meta Reality Labs. I build devices for humans, devices for haptics, and devices for virtual reality.
+I am a Research Scientist at Meta Reality Labs. I build devices for humans, devices for haptics, and devices for virtual reality.
 
 My website: [pornthep.com](https://pornthep.com) or [พรเทพ.com](https://พรเทพ.com)
 
